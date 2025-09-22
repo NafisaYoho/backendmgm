@@ -26,6 +26,7 @@ const allowedOrigins = [
     "http://localhost:5174",
     "http://mgmproperties.co.in",
     "https://mgmproperties.co.in",
+    "https://nafisanazeer.netlify.app",
 ];
 app.use(
     cors({
